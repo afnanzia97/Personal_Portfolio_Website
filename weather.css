@@ -1,0 +1,32 @@
+/* Weather App Styles */
+
+.weather-app {
+    max-width: 400px;
+    margin: 50px auto;
+    text-align: center;
+    background-color: #f0f8ff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.weather-app h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.weather-container {
+    font-size: 18px;
+    color: #34495e;
+}
+
+#temperature {
+    font-size: 30px;
+    font-weight: bold;
+    color: #2980b9;
+}
+
+#description {
+    font-style: italic;
+    color: #7f8c8d;
+}
